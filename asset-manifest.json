@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-typescript-calculator/static/css/main.53123dff.chunk.css",
+    "main.js": "/react-typescript-calculator/static/js/main.47011d9c.chunk.js",
+    "main.js.map": "/react-typescript-calculator/static/js/main.47011d9c.chunk.js.map",
+    "runtime-main.js": "/react-typescript-calculator/static/js/runtime-main.2e8a9b0e.js",
+    "runtime-main.js.map": "/react-typescript-calculator/static/js/runtime-main.2e8a9b0e.js.map",
+    "static/js/2.5cbac7a8.chunk.js": "/react-typescript-calculator/static/js/2.5cbac7a8.chunk.js",
+    "static/js/2.5cbac7a8.chunk.js.map": "/react-typescript-calculator/static/js/2.5cbac7a8.chunk.js.map",
+    "static/js/3.aedb27f5.chunk.js": "/react-typescript-calculator/static/js/3.aedb27f5.chunk.js",
+    "static/js/3.aedb27f5.chunk.js.map": "/react-typescript-calculator/static/js/3.aedb27f5.chunk.js.map",
+    "index.html": "/react-typescript-calculator/index.html",
+    "service-worker.js": "/react-typescript-calculator/service-worker.js",
+    "service-worker.js.map": "/react-typescript-calculator/service-worker.js.map",
+    "static/css/main.53123dff.chunk.css.map": "/react-typescript-calculator/static/css/main.53123dff.chunk.css.map",
+    "static/js/2.5cbac7a8.chunk.js.LICENSE.txt": "/react-typescript-calculator/static/js/2.5cbac7a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e8a9b0e.js",
+    "static/js/2.5cbac7a8.chunk.js",
+    "static/css/main.53123dff.chunk.css",
+    "static/js/main.47011d9c.chunk.js"
+  ]
+}
